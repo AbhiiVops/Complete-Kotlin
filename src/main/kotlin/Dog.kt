@@ -23,8 +23,8 @@ fun main(){
      val dog1 = Dog() // creating an object of the class
 
        dog1.breed = "German Shepherd"
-      dog1.color = "Black"
-      dog1.age =1
+       dog1.color = "Black"
+       dog1.age =1
 
       println("The breed of the dog is ${dog1.breed}, whose color is ${dog1.color}, whose age is ${dog1.age}")
 
