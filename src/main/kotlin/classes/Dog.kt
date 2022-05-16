@@ -1,3 +1,5 @@
+package classes
+
 class Dog {
 
     // property
@@ -18,7 +20,7 @@ class Dog {
 
 }
 
-fun main(){
+   fun main(){
 
      val dog1 = Dog() // creating an object of the class
 
@@ -29,5 +31,5 @@ fun main(){
       println("The breed of the dog is ${dog1.breed}, whose color is ${dog1.color}, whose age is ${dog1.age}")
 
       dog1.eat()  // invoking function with the object
-    dog1.bark()
+      dog1.bark()
 }
