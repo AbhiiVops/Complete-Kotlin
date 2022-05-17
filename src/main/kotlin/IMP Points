@@ -1,0 +1,10 @@
+1. all Data Types starts with capital letter in kotlin
+
+2. a class with no function need not required to be initialised with parentheses
+   eg : class Dog(legs:Int,color:String)
+
+3. a function with only one statement inside body does not requires parentheses
+   eg : fun bark() = println("I bark")
+
+
+4. A child class can inherit only one base class but can implement multiple interfaces

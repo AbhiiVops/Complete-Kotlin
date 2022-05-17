@@ -1,4 +1,4 @@
-package ApplicationsOFObjectsAndClasses
+package ApplicationsOfObjectsAndClasses
 
 fun main() {
 

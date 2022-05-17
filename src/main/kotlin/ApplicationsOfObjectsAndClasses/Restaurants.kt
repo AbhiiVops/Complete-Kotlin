@@ -1,4 +1,4 @@
-package ApplicationsOFObjectsAndClasses
+package ApplicationsOfObjectsAndClasses
 
 data class Restaurants(var name:String,var rating:Double,var costForOne:Int) {
 
