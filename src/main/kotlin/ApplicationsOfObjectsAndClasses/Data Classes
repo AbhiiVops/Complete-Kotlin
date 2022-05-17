@@ -1,0 +1,6 @@
+Data classes
+
+1. Data Classes are used to store data
+2. they help us perform operations directly on the data stored in the objects of a class
+3. they help us in omitting redundant code
+4. a primary constructor of a data class must always have at least one parameter
