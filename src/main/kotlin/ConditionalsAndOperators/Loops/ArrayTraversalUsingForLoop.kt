@@ -7,14 +7,17 @@ fun main() {
  //       println(a[i])
         println("${a[i]}")  // -> not actually required
     }
+    println()
 
     for(element in a) {
                println(element)
     }
+    println()
 
     for(i in 0 until a.size) {  // --> Until excludes the last entity
                println(a[i])
 
     }
+    println()
 
 }
